@@ -31,4 +31,4 @@ Aprimorando conhecimentos do **Git**/*GitHub*
 
 [Google](https://www.google.com)
 
-Contribuidor principal: https://www.github.com.br/pedrorafante
+Contribuidor principal: https://www.github.com/pedrorafante
