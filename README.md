@@ -30,3 +30,5 @@ Aprimorando conhecimentos do **Git**/*GitHub*
 ## Links Interessantes
 
 [Google](https://www.google.com)
+
+Contribuidor principal: https://www.github.com.br/pedrorafante
