@@ -26,3 +26,7 @@ Aprimorando conhecimentos do **Git**/*GitHub*
 ### Imagem Externa
 
 ![Logo do PHP](https://kwiksaf.com/site/wp-content/uploads/2022/03/php-image.jpg)
+
+## Links Interessantes
+
+[Google](https://www.google.com)
