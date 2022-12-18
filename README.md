@@ -19,3 +19,7 @@ Aprimorando conhecimentos do **Git**/*GitHub*
 2. Item 2
 3. Item 3
 
+### Imagem Local
+
+![Logo do Python](img/python.jpg)
+
